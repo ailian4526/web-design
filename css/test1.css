@@ -1,0 +1,17 @@
+#box{
+	width: 160px;
+	height: 200px;
+	background-color: aqua;
+	text-align: center;
+	overflow: hidden;
+}
+.box1{
+	width: 50px;
+	height: 50px;
+/* 	width: 31%;
+	padding-bottom: 31%; */
+	margin: 1%;
+	border-radius: 10%;
+	float: left;
+	background-color: #FFAA00;
+}
